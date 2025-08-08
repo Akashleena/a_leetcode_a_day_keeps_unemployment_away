@@ -1,4 +1,4 @@
-//Two sum using Binary search
+//Two sum using Binary search O(NlogN)
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
